@@ -21,7 +21,9 @@ Software Block Diagram:
 
 ![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Software%20Block%20Diagram.png)
 
+User Interface:
 
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/User%20Interface.jpg)
 
 
 For more info, please look up the [User Manual](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/Team%209%20User%20Manual%20Final.docx)
