@@ -27,8 +27,11 @@ User Interface:
 
 ## Current State
  IMU: Successfully collect the Roll/Pitch/Yaw data from MPU9250 and using those data to generate a real-time 3D model.
+ 
  GPS: Successfully collect the longitute/latitute/altitute from NEO-M9N.
+ 
  Camera: Successfuly using camera to carpture and display the dial reading and the real-time position of the flightstick.
+ 
  UI: Containing the basic function of the user interface.
 
 ## Future Work
