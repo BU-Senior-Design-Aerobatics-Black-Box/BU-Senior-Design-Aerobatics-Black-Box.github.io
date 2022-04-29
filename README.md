@@ -26,6 +26,14 @@ User Interface:
 ![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/User%20Interface.jpg)
 
 ## Current State
+IMU: Successfully collect the Roll/Pitch/Yaw data from MPU9250 and using those data to generate a real-time 3D model.
+GPS: Successfully collect the longitute/latitute/altitute from NEO-M9N.
+Camera: Successfuly using camera to carpture and display the dial reading and the real-time position of the flightstick.
+UI: Containing the basic function of the user interface.
 
+## Future Work
+IMU: Although we have implemented the Kalman filter to smooth the output data, the final 3D model is still noisy. We will try other possible filter such as complementary filter to erase the noise.
+UI: Adding more graphical features to the UI.
+Data transfering: Transfering the original data to the .fdr format and displaying them in Xplane11 simulator.
 
 For more info, please look up the [User Manual](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/Team%209%20User%20Manual%20Final.docx)
