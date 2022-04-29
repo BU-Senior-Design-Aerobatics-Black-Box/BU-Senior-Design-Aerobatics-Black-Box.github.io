@@ -7,4 +7,6 @@
 Our Aerobatic Black Box will address client’s issues by providing a hardware part which contains AHRS, INS, and cameras to collect pilot input, and a software part which allows pilots to replay 3D demonstration of flight maneuvers, and also provides pilot input corresponding to every maneuver. When collecting pilot input, we are faced with the problem that the aircraft does not have a collection interface, so we innovatively use image recognition technology to collect airspeed and pilot input.
 The Aerobatic Black Box is specially designed for introductory aerobatics pilots and aerobatics training. This system will allow pilots to observe different angles of flight attitude for the next flight adjustment, and also solves the lack of digital AHRS in some aircraft, and greatly reduces the difficulty of aerobatics training.
 
-For more info, please look up the user manual
+
+
+For more info, please look up the [User Manual](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/Team%209%20User%20Manual%20Final.docx)
