@@ -1,4 +1,6 @@
-# Aerobatic Black Box
+# Aerobatic Black Box 
+
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/logo.png)
 
  During aerobatic competition the aircraft's flight status, altitude, speed, direction, and overload parameters change drastically. The pilot must be aware of the flight status at any time, understand the changes in motion parameters, and control the aircraft to move on a predetermined trajectory in a timely and accurate manner. During competition and training, AHRS will help pilots understand the real-time aircraft attitude, however this device cannot record and replay 3 demonstrations of flight training, and pilots cannot make precise movement adjustments based on ordinary avionics.
  
