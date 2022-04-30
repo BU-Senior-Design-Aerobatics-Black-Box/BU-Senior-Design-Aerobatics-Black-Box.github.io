@@ -11,7 +11,7 @@
 ## References to significant data sheets, application notes, design templates, etc.
 ## Power requirements (voltage, current, power supply model, etc.).
 
-![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Hard_spec.png)
+![]()
 ![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Hard_spec2.png)
 
 
