@@ -1,12 +1,12 @@
 # Software Report
 ## Software Overview:
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/Software_Overview.PNG)
 
-
+## Necessary Software Installation
 There are several necessary packages that need to be installed.
-
-Install python and python3: `sudo pip3 install python & python3`
-
-## Enable the I2C port:
+### Install python and python3: 
+`sudo pip3 install python & python3`
+### Enable the I2C port:
 
 `sudo raspi-config`
 
@@ -20,7 +20,7 @@ Select Finish.
 
 Select Yes when prompted to reboot.
 
-## Enable the Webcam:
+### Enable the Webcam:
 
 `sudo raspi-config`
 
@@ -34,14 +34,14 @@ Select Finish.
 
 Select Yes when prompted to reboot.
 
-## Install OpenGL(3.1.6):
-### python3:
+### Install OpenGL(3.1.6):
+#### python3:
 `pip3 install PyOpenGL PyOpenGL_accelerate`
-### python2.7:
+#### python2.7:
 `pip install PyOpenGL PyOpenGL_accelerate`
 
-## Install Pygame(1.9.4.post1):
-### python3:
+### Install Pygame(1.9.4.post1):
+#### python3:
 `sudo apt-get install python3-pygame`
-### python2.7:
+#### python2.7:
 `sudo apt-get install python-pygame `
