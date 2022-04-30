@@ -19,9 +19,13 @@ Hardware Block Diagram:
 
 ![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Hardware%20Block%20Diagram.png)
 
+[Hardware Details](README_Hardware.md)
+
 Software Block Diagram:
 
 ![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Software%20Block%20Diagram.png)
+
+[Software Details](README_Software.md)
 
 User Interface:
 
