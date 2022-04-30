@@ -63,6 +63,11 @@ Notice: guizero package currently doesn't support python2.7 or earlier.
 #### python2.7:
 `sudo apt-get install -y python-smbus`
 
+### Install numpy, matplotlib, OpenCV, sklearn, skimage:
+```
+pip3 install numpy matplotlib opencv-python scikit-learn scikit-image
+```
+
 ## Auto running:
 Go to terminal and type `sudo nano /etc/xdg/autostart/display.desktop`
 In the editor, typing
