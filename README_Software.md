@@ -45,3 +45,20 @@ Select Yes when prompted to reboot.
 `sudo apt-get install python3-pygame`
 #### python2.7:
 `sudo apt-get install python-pygame `
+
+### Install Guizero(1.3.0):
+#### python3:
+`sudo pip3 install guizero`
+Notice: guizero package currently doesn't support python2.7 or earlier.
+
+### Install RTImuLib(7.2.1):
+#### python3:
+`sudo pip3 install RTIMULib`
+#### python2.7:
+`sudo pip install RTIMULib`
+
+### Install smbus(4.1-1):
+#### python3:
+`sudo apt-get install -y python3-smbus`
+#### python2.7:
+`sudo apt-get install -y python-smbus`
