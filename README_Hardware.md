@@ -4,6 +4,22 @@
 ![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/hardoverview.png)
 
 ## Schematic / PCB / CAD diagrams of all components of your project: please include in PDF format AND the actual CAD / CAM files (would you want to redraw them from scratch?)
+
+### 10DOF IMU and Baromatic Meter(MPU9255 & BMP280)
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/IMU-pcb.PNG)
+
+### GPS(NEO-M9N)
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/GPS.PNG)
+
+### 5 inches TouchScreen 800×480(back)
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Touchscreen.PNG)
+
+### 5 inches TouchScreen 800×480(front)
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/touchfront.PNG)
+
+### Raspberry Pi 4B
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Raspberrypi4b.PNG)
+
 ## Vendor information and Bill of Materials (BOM).
 
 ![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Hard_Cost.png)
