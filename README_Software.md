@@ -62,3 +62,12 @@ Notice: guizero package currently doesn't support python2.7 or earlier.
 `sudo apt-get install -y python3-smbus`
 #### python2.7:
 `sudo apt-get install -y python-smbus`
+
+## Auto running:
+Go to terminal and type `sudo nano /etc/xdg/autostart/display.desktop`
+In the editor, typing
+```
+[Desktop Entry]
+Name=Display
+Exec=/usr/bin/python3 /home/pi/Desktop/Senior_Design_Project/gui2.py
+```
