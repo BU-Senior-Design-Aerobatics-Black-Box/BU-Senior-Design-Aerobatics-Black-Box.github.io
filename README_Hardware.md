@@ -20,6 +20,9 @@
 ### Raspberry Pi 4B
 ![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Raspberrypi4b.PNG)
 
+### Camera(5MP OV5648)
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/WebCam.PNG)
+
 ## Vendor information and Bill of Materials (BOM).
 
 ![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Hard_Cost.png)
