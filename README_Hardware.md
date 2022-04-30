@@ -47,11 +47,11 @@
 
 ## Significant data sheets, application notes, design templates, web resources.
 
-![https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data1.png]
-![https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data2.png]
-![https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data3.png]
-![https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data4.png]
-![https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data5.png]
-![https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data6.png]
-![https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data7.png]
-## Photographs documenting the assembled system
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data1.png)
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data2.png)
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data3.png)
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data4.png)
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data5.png)
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data6.png)
+![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Data7.png)
+
