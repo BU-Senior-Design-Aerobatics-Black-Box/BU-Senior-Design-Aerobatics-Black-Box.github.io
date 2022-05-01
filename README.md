@@ -1,6 +1,6 @@
 # Aerobatic Black Box 
 
-![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/logo.png)
+![](User%20Manual/logo.png)
 
  During aerobatic competition the aircraft's flight status, altitude, speed, direction, and overload parameters change drastically. The pilot must be aware of the flight status at any time, understand the changes in motion parameters, and control the aircraft to move on a predetermined trajectory in a timely and accurate manner. During competition and training, AHRS will help pilots understand the real-time aircraft attitude, however this device cannot record and replay 3 demonstrations of flight training, and pilots cannot make precise movement adjustments based on ordinary avionics.
  
@@ -17,19 +17,19 @@ The Aerobatic Black Box is specially designed for introductory aerobatics pilots
 ### Overview Block Diagrams
 Hardware Block Diagram:
 
-![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Hardware%20Block%20Diagram.png)
+![](User%20Manual/Hardware%20Block%20Diagram.png)
 
 [Hardware Details](README_Hardware.md)
 
 Software Block Diagram:
 
-![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Software%20Block%20Diagram.png)
+![](User%20Manual/Software%20Block%20Diagram.png)
 
 [Software Details](README_Software.md)
 
 User Interface:
 
-![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/User%20Interface.jpg)
+![](User%20Manual/User%20Interface.jpg)
 
 ## Current State
  IMU: Successfully collect the Roll/Pitch/Yaw data from MPU9250 and using those data to generate a real-time 3D model.
@@ -47,4 +47,4 @@ UI: Adding more graphical features to the UI.
 
 Data transfering: Transfering the original data to the .fdr format and displaying them in Xplane11 simulator.
 
-For more info, please look up the [User Manual](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/Team%209%20User%20Manual%20Final.docx)
+For more info, please look up the [User Manual](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/User%20Manual/Final%20User%20Manual.docx)
