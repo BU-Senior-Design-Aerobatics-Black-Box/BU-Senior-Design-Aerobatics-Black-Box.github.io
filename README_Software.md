@@ -1,11 +1,15 @@
 # Software Report
 ## Software Overview:
-![](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/BU-Senior-Design-Aerobatics-Black-Box.github.io/blob/main/Software_Overview.PNG)
+![](Software_Overview.PNG)
 
 ## Necessary Software Installation
+
 There are several necessary packages that need to be installed.
+
 ### Install python and python3: 
+
 `sudo pip3 install python & python3`
+
 ### Enable the I2C port:
 
 `sudo raspi-config`
