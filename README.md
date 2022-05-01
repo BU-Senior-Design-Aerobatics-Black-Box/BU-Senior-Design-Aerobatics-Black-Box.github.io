@@ -27,6 +27,8 @@ Software Block Diagram:
 
 [Software Details](README_Software.md)
 
+[Image Analysis Details](https://github.com/BU-Senior-Design-Aerobatics-Black-Box/image-analysis)
+
 User Interface:
 
 ![](User%20Manual/User%20Interface.jpg)
